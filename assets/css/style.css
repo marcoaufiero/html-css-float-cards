@@ -40,6 +40,10 @@ header p{
     font-family: 'Poppins', sans-serif;
 }
 
+.card h3{
+    font-size: 1.5rem;
+}
+
 .container{
     padding: 25px 30px;
     float: left;
@@ -49,6 +53,7 @@ header p{
 .card{
     background-color: #0F0E17;
     color: white;
+    box-shadow: 5px 5px 15px black;
 }
 
 .card img{
